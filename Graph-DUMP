@@ -1,0 +1,2926 @@
+vertice	software
+aresta	software	windows	1
+aresta	software	linux	1
+aresta	software	develop	1
+aresta	software	freeware	1
+aresta	software	engineering	1
+aresta	software	book	1
+aresta	software	utilities	1
+aresta	software	evolution	1
+aresta	software	code	1
+aresta	software	frameworks	1
+aresta	software	framework	1
+aresta	software	graphics	1
+aresta	software	security	1
+aresta	software	metrics	1
+aresta	software	editor	1
+aresta	software	collaboration	1
+aresta	software	source	1
+aresta	software	library	1
+aresta	software	visualization	1
+aresta	software	download	1
+aresta	software	photography	1
+aresta	software	project	1
+aresta	software	office	1
+aresta	software	browser	1
+aresta	software	statistics	1
+aresta	software	gui	1
+aresta	software	productivity	1
+aresta	software	latex	1
+aresta	software	agile	1
+aresta	software	testing	1
+aresta	software	maintenance	1
+aresta	software	writing	1
+aresta	software	graph	1
+aresta	software	shelf	1
+aresta	software	process	1
+aresta	software	guide	1
+aresta	software	music	1
+aresta	software	community	1
+aresta	software	mobile	1
+aresta	software	system	1
+aresta	software	distributed	1
+aresta	software	build	1
+aresta	software	team	1
+aresta	software	configuration	1
+aresta	software	recovery	1
+aresta	software	workflow	1
+aresta	software	spring	1
+aresta	software	modeling	1
+aresta	software	images	1
+aresta	software	script	1
+aresta	software	algorithm	1
+aresta	software	repository	1
+aresta	software	simulation	1
+aresta	software	capture	1
+aresta	software	reader	1
+aresta	software	quality	1
+aresta	software	FLOSS	1
+aresta	software	diagram	1
+aresta	software	followup	1
+aresta	software	forum	1
+aresta	software	chart	1
+aresta	software	dynamic	1
+aresta	software	messaging	1
+aresta	software	beta	1
+aresta	software	numerical	1
+vertice	windows
+aresta	windows	utility	1
+aresta	windows	vista	1
+vertice	linux
+aresta	linux	unix	1
+aresta	linux	bash	1
+aresta	linux	kernel	1
+aresta	linux	encryption	1
+aresta	linux	backup	1
+aresta	linux	cluster	1
+aresta	linux	boot	1
+aresta	linux	driver	1
+aresta	linux	mail	1
+aresta	linux	fedora	1
+aresta	linux	laptop	1
+aresta	linux	monitoring	1
+aresta	linux	firewall	1
+aresta	linux	install	1
+aresta	linux	monitor	1
+aresta	linux	computers	1
+aresta	linux	git	1
+aresta	linux	wine	1
+aresta	linux	printer	1
+aresta	linux	manager	1
+aresta	linux	drivers	1
+aresta	linux	administration	1
+aresta	linux	installation	1
+aresta	linux	remote	1
+aresta	linux	distribution	1
+aresta	linux	client	1
+aresta	linux	screen	1
+aresta	linux	cd	1
+aresta	linux	commands	1
+vertice	develop
+aresta	develop	maven	1
+aresta	develop	hibernate	1
+aresta	develop	bpm	1
+aresta	develop	schema	1
+aresta	develop	components	1
+aresta	develop	persistence	1
+vertice	data
+aresta	data	mode	1
+aresta	data	linked	1
+aresta	data	genetic	1
+aresta	data	Panel	1
+aresta	data	stream	1
+vertice	mode
+aresta	mode	three	1
+vertice	three
+vertice	book
+aresta	book	nlp	1
+aresta	book	springer	1
+aresta	book	automotive	1
+aresta	book	safari	1
+aresta	book	learn	1
+aresta	book	spatial	1
+aresta	book	optimize	1
+aresta	book	product	1
+vertice	nlp
+aresta	nlp	parser	1
+aresta	nlp	diss	1
+aresta	nlp	pos	1
+vertice	agriculture
+aresta	agriculture	Moscow	1
+vertice	Moscow
+vertice	web
+aresta	web	semantic	1
+aresta	web	ontology	1
+aresta	web	service	1
+aresta	web	mining	1
+aresta	web	language	1
+aresta	web	collaborative	1
+aresta	web	services	1
+aresta	web	marketing	1
+aresta	web	hosting	1
+aresta	web	server	1
+aresta	web	standards	1
+aresta	web	www	1
+aresta	web	map	1
+aresta	web	http	1
+aresta	web	rest	1
+aresta	web	site	1
+aresta	web	world	1
+aresta	web	protocol	1
+aresta	web	page	1
+aresta	web	crawler	1
+aresta	web	link	1
+aresta	web	websites	1
+aresta	web	format	1
+aresta	web	tracking	1
+aresta	web	sites	1
+aresta	web	markup	1
+aresta	web	js	1
+vertice	semantic
+aresta	semantic	ontologies	1
+aresta	semantic	annotation	1
+aresta	semantic	user	1
+aresta	semantic	workshop	1
+aresta	semantic	metadata	1
+aresta	semantic	desktop	1
+aresta	semantic	relatedness	1
+aresta	semantic	integration	1
+aresta	semantic	latent	1
+aresta	semantic	trust	1
+aresta	semantic	experience	1
+aresta	semantic	conferences	1
+vertice	Alter
+aresta	Alter	Condition	1
+aresta	Alter	AAS	1
+aresta	Alter	ins	1
+vertice	Condition
+vertice	freeware
+aresta	freeware	Mac	1
+aresta	freeware	portable	1
+vertice	engineering
+aresta	engineering	reverse	1
+vertice	springer
+aresta	springer	assist	1
+vertice	mining
+aresta	mining	sentiment	1
+aresta	mining	opinion	1
+aresta	mining	usage	1
+vertice	sentiment
+aresta	sentiment	subjectivity	1
+vertice	opinion
+aresta	opinion	leaders	1
+aresta	opinion	thought	1
+vertice	Applications
+aresta	Applications	Bar	1
+vertice	Bar
+aresta	Bar	Bookmarkers	1
+vertice	tools
+aresta	tools	computing	1
+aresta	tools	resources	1
+aresta	tools	tips	1
+aresta	tools	twitter	1
+aresta	tools	generator	1
+aresta	tools	email	1
+aresta	tools	storage	1
+aresta	tools	flash	1
+aresta	tools	aggregator	1
+aresta	tools	tech	1
+aresta	tools	list	1
+aresta	tools	extensions	1
+aresta	tools	tag	1
+aresta	tools	fun	1
+aresta	tools	website	1
+aresta	tools	photos	1
+aresta	tools	multimedia	1
+aresta	tools	test	1
+aresta	tools	text	1
+aresta	tools	sharing	1
+aresta	tools	feeds	1
+aresta	tools	presentation	1
+aresta	tools	hacks	1
+aresta	tools	tutorials	1
+aresta	tools	maps	1
+aresta	tools	survey	1
+aresta	tools	privacy	1
+aresta	tools	cool	1
+aresta	tools	editors	1
+aresta	tools	color	1
+aresta	tools	converter	1
+aresta	tools	slides	1
+aresta	tools	performance	1
+aresta	tools	travel	1
+aresta	tools	spreadsheet	1
+aresta	tools	webmaster	1
+aresta	tools	notes	1
+aresta	tools	comparison	1
+aresta	tools	virtual	1
+aresta	tools	chat	1
+aresta	tools	conversion	1
+aresta	tools	index	1
+aresta	tools	traffic	1
+vertice	computing
+aresta	computing	cloud	1
+aresta	computing	ubiquitous	1
+aresta	computing	palm	1
+vertice	Deutschland
+aresta	Deutschland	Welt	1
+aresta	Deutschland	Controlling	1
+aresta	Deutschland	Reorganisation	1
+aresta	Deutschland	Handel	1
+aresta	Deutschland	Kind	1
+aresta	Deutschland	Berlin	1
+aresta	Deutschland	Sponsoring	1
+aresta	Deutschland	Bremen	1
+aresta	Deutschland	Alter	1
+aresta	Deutschland	Frau	1
+aresta	Deutschland	Land	1
+vertice	Welt
+aresta	Welt	World_Trade_Organization	1
+vertice	education
+aresta	education	mathematics	1
+aresta	education	higher	1
+aresta	education	pedagogy	1
+aresta	education	policy	1
+aresta	education	distance	1
+aresta	education	schools	1
+aresta	education	teachers	1
+aresta	education	school	1
+aresta	education	UK	1
+aresta	education	leadership	1
+vertice	mathematics
+aresta	mathematics	algebra	1
+aresta	mathematics	children	1
+aresta	mathematics	sequences	1
+aresta	mathematics	maths	1
+aresta	mathematics	limit	1
+aresta	mathematics	number	1
+aresta	mathematics	discourse	1
+aresta	mathematics	beliefs	1
+vertice	ontology
+aresta	ontology	semantics	1
+aresta	ontology	similarity	1
+aresta	ontology	taxonomy	1
+aresta	ontology	merging	1
+aresta	ontology	protege	1
+aresta	ontology	matching	1
+aresta	ontology	OWL	1
+aresta	ontology	population	1
+aresta	ontology	thesaurus	1
+aresta	ontology	alignment	1
+aresta	ontology	context	1
+vertice	service
+aresta	service	BIB	1
+vertice	social
+aresta	social	networks	1
+aresta	social	tagging	1
+aresta	social	bookmarks	1
+aresta	social	bookmark	1
+aresta	social	communities	1
+aresta	social	dynamics	1
+aresta	social	capital	1
+aresta	social	new	1
+aresta	social	own	1
+aresta	social	rede	1
+vertice	networks
+aresta	networks	complex	1
+aresta	networks	epidemics	1
+aresta	networks	neural	1
+aresta	networks	sampling	1
+vertice	tagging
+aresta	tagging	delicious	1
+aresta	tagging	recommendation	1
+aresta	tagging	motivation	1
+aresta	tagging	indexing	1
+aresta	tagging	vocabulary	1
+aresta	tagging	taxonomies	1
+vertice	tutorial
+aresta	tutorial	comment	1
+aresta	tutorial	best	1
+aresta	tutorial	extension	1
+aresta	tutorial	hack	1
+aresta	tutorial	introduction	1
+aresta	tutorial	illustrator	1
+vertice	comment
+aresta	comment	SIP	1
+aresta	comment	disk	1
+vertice	AAS
+vertice	imported
+aresta	imported	Organisations	1
+aresta	imported	Paddling	1
+aresta	imported	Applications	1
+aresta	imported	Kayak	1
+aresta	imported	Hardware	1
+aresta	imported	Media	1
+aresta	imported	Countries	1
+aresta	imported	Austria	1
+aresta	imported	Corpora	1
+aresta	imported	Companies	1
+aresta	imported	Germanic	1
+aresta	imported	Retailers	1
+aresta	imported	Accommodation	1
+aresta	imported	Rail	1
+aresta	imported	Platforms	1
+aresta	imported	Associations	1
+aresta	imported	Institutes	1
+aresta	imported	DVD	1
+aresta	imported	Portables	1
+aresta	imported	Psychology	1
+aresta	imported	useful	1
+aresta	imported	Management	1
+aresta	imported	IT	1
+aresta	imported	Drinks	1
+aresta	imported	Bruxelles	1
+aresta	imported	Russia	1
+aresta	imported	Agents	1
+aresta	imported	Biology	1
+aresta	imported	Artists	1
+aresta	imported	Broadcast	1
+aresta	imported	Cities	1
+aresta	imported	Airlines	1
+vertice	Organisations
+vertice	Paddling
+aresta	Paddling	Destinations	1
+vertice	programming
+aresta	programming	python	1
+aresta	programming	ruby	1
+aresta	programming	ajax	1
+aresta	programming	lisp	1
+aresta	programming	imported	1
+aresta	programming	math	1
+aresta	programming	Java	1
+aresta	programming	algorithms	1
+aresta	programming	parallel	1
+aresta	programming	functional	1
+aresta	programming	languages	1
+aresta	programming	C	1
+aresta	programming	scripting	1
+aresta	programming	coding	1
+aresta	programming	evolutionary	1
+aresta	programming	examples	1
+aresta	programming	work	1
+aresta	programming	expression	1
+aresta	programming	scheme	1
+aresta	programming	logo	1
+aresta	programming	specification	1
+aresta	programming	debugging	1
+aresta	programming	subversion	1
+aresta	programming	cocoa	1
+aresta	programming	concurrency	1
+aresta	programming	optimization	1
+aresta	programming	erlang	1
+aresta	programming	compiler	1
+vertice	python
+vertice	medicine
+aresta	medicine	disease	1
+aresta	medicine	cardiology	1
+aresta	medicine	atherosclerosis	1
+aresta	medicine	botanical	1
+aresta	medicine	plaque	1
+aresta	medicine	artery	1
+aresta	medicine	occlusion	1
+aresta	medicine	inflammation	1
+aresta	medicine	cardiovascular	1
+aresta	medicine	botanicals	1
+aresta	medicine	coronary	1
+aresta	medicine	herbal	1
+aresta	medicine	syndrome	1
+aresta	medicine	herbals	1
+aresta	medicine	clinical	1
+aresta	medicine	herbs	1
+aresta	medicine	care	1
+aresta	medicine	supplements	1
+aresta	medicine	tests	1
+aresta	medicine	doctors	1
+aresta	medicine	references	1
+aresta	medicine	CAM	1
+aresta	medicine	databases	1
+aresta	medicine	alternative	1
+aresta	medicine	healthcare	1
+aresta	medicine	genetics	1
+aresta	medicine	psychiatry	1
+aresta	medicine	diseases	1
+vertice	disease
+aresta	disease	microbiology	1
+aresta	disease	virology	1
+aresta	disease	bacteria	1
+aresta	disease	chronic	1
+aresta	disease	HIV	1
+vertice	research
+aresta	research	medicine	1
+aresta	research	studies	1
+aresta	research	medical	1
+aresta	research	journals	1
+aresta	research	academic	1
+aresta	research	drugs	1
+aresta	research	diagnosis	1
+aresta	research	methodology	1
+aresta	research	papers	1
+aresta	research	practice	1
+aresta	research	prevention	1
+aresta	research	nutrition	1
+aresta	research	imaging	1
+aresta	research	journal	1
+aresta	research	news	1
+aresta	research	university	1
+aresta	research	methods	1
+aresta	research	pubs	1
+aresta	research	books	1
+aresta	research	study	1
+aresta	research	citation	1
+aresta	research	art	1
+aresta	research	hub	1
+aresta	research	scholarship	1
+aresta	research	health	1
+aresta	research	articles	1
+aresta	research	recherche	1
+aresta	research	funding	1
+aresta	research	economics	1
+aresta	research	medline	1
+aresta	research	scientific	1
+aresta	research	cs	1
+aresta	research	environment	1
+aresta	research	mapping	1
+aresta	research	cancer	1
+aresta	research	qualitative	1
+aresta	research	review	1
+aresta	research	citations	1
+aresta	research	academics	1
+aresta	research	institute	1
+aresta	research	digital	1
+aresta	research	energy	1
+aresta	research	sciences	1
+aresta	research	vision	1
+aresta	research	researcher	1
+vertice	information
+aresta	information	retrieval	1
+aresta	information	paper	1
+aresta	information	processing	1
+aresta	information	extraction	1
+aresta	information	systems	1
+aresta	information	schizophrenia	1
+aresta	information	entropy	1
+aresta	information	Asymmetric	1
+vertice	retrieval
+aresta	retrieval	document	1
+vertice	homepage
+aresta	homepage	person	1
+aresta	homepage	coauthor	1
+vertice	person
+vertice	ruby
+aresta	ruby	rails	1
+vertice	rails
+vertice	ajax
+aresta	ajax	calendar	1
+vertice	utilities
+vertice	evolution
+aresta	evolution	requirements	1
+aresta	evolution	influenza	1
+aresta	evolution	cooperation	1
+aresta	evolution	strategies	1
+vertice	code
+aresta	code	generation	1
+aresta	code	snippets	1
+aresta	code	fingerprinting	1
+vertice	frameworks
+vertice	framework
+vertice	unix
+aresta	unix	shell	1
+vertice	graphics
+aresta	graphics	icons	1
+aresta	graphics	vector	1
+aresta	graphics	creativity	1
+aresta	graphics	graphic	1
+aresta	graphics	gimp	1
+aresta	graphics	charts	1
+vertice	security
+aresta	security	rivalry	1
+aresta	security	authentication	1
+aresta	security	hacking	1
+aresta	security	cryptography	1
+aresta	security	war	1
+aresta	security	password	1
+aresta	security	virus	1
+aresta	security	spyware	1
+aresta	security	wireless	1
+aresta	security	nuclear	1
+aresta	security	ids	1
+vertice	metrics
+vertice	editor
+aresta	editor	editing	1
+aresta	editor	vim	1
+aresta	editor	vi	1
+aresta	editor	wysiwyg	1
+vertice	collaboration
+aresta	collaboration	groupware	1
+aresta	collaboration	participation	1
+vertice	source
+aresta	source	geophysics	1
+aresta	source	separation	1
+aresta	source	earthquake	1
+vertice	library
+vertice	visualization
+aresta	visualization	graphs	1
+aresta	visualization	visualisation	1
+aresta	visualization	navigation	1
+aresta	visualization	timeline	1
+aresta	visualization	interactive	1
+aresta	visualization	visualiser	1
+vertice	download
+aresta	download	torrent	1
+vertice	design
+aresta	design	interaction	1
+aresta	design	usability	1
+aresta	design	patterns	1
+aresta	design	pattern	1
+aresta	design	interface	1
+aresta	design	space	1
+aresta	design	blogs	1
+aresta	design	inspiration	1
+aresta	design	layout	1
+aresta	design	templates	1
+aresta	design	typography	1
+aresta	design	encapsulation	1
+aresta	design	icon	1
+aresta	design	principles	1
+aresta	design	block	1
+aresta	design	theme	1
+aresta	design	Alexander	1
+aresta	design	visual	1
+vertice	interaction
+vertice	usability
+aresta	usability	accessibility	1
+aresta	usability	job	1
+vertice	patterns
+aresta	patterns	lp	1
+vertice	pattern
+aresta	pattern	recognition	1
+vertice	interface
+aresta	interface	catalog	1
+vertice	best
+aresta	best	programme	1
+aresta	best	update	1
+aresta	best	portrait	1
+aresta	best	organiser	1
+aresta	best	lien	1
+aresta	best	utile	1
+vertice	object
+aresta	object	permanence	1
+aresta	object	oriented	1
+vertice	permanence
+vertice	paper
+aresta	paper	embedded	1
+aresta	paper	dialog	1
+aresta	paper	agent	1
+aresta	paper	ngs	1
+aresta	paper	device	1
+aresta	paper	sensor	1
+aresta	paper	answer	1
+aresta	paper	secure	1
+aresta	paper	gene	1
+aresta	paper	oyster	1
+aresta	paper	acidification	1
+aresta	paper	stress	1
+vertice	embedded
+vertice	processing
+aresta	processing	speech	1
+aresta	processing	Array	1
+aresta	processing	temporal	1
+aresta	processing	signal	1
+aresta	processing	plan	1
+aresta	processing	story	1
+vertice	subjectivity
+vertice	ontologies
+aresta	ontologies	NeOn	1
+aresta	ontologies	mappings	1
+vertice	Kayak
+vertice	Hardware
+vertice	Media
+vertice	bookmarks
+vertice	resources
+aresta	resources	example	1
+vertice	tips
+aresta	tips	advice	1
+aresta	tips	tricks	1
+aresta	tips	recommendations	1
+aresta	tips	help	1
+aresta	tips	composition	1
+vertice	twitter
+aresta	twitter	presence	1
+aresta	twitter	vegan	1
+vertice	USA
+aresta	USA	United_States	1
+aresta	USA	Deutschland	1
+vertice	United_States
+aresta	United_States	Economic_policy	1
+aresta	United_States	Labor_market	1
+vertice	Controlling
+vertice	studies
+aresta	studies	surgery	1
+aresta	studies	labs	1
+aresta	studies	guidelines	1
+aresta	studies	cytokines	1
+aresta	studies	trials	1
+vertice	medical
+aresta	medical	biomedical	1
+aresta	medical	reviews	1
+aresta	medical	physicians	1
+vertice	journals
+aresta	journals	internal	1
+aresta	journals	general	1
+aresta	journals	endocrinology	1
+aresta	journals	diabetes	1
+vertice	academic
+aresta	academic	essays	1
+aresta	academic	Internet	1
+aresta	academic	courses	1
+aresta	academic	ethnicity	1
+aresta	academic	publication	1
+vertice	essays
+aresta	essays	Addresses	1
+aresta	essays	overviews	1
+vertice	cardiology
+aresta	cardiology	cardiac	1
+aresta	cardiology	risks	1
+aresta	cardiology	assessments	1
+aresta	cardiology	Tx	1
+aresta	cardiology	anti-inflammatory	1
+aresta	cardiology	inflammatory	1
+aresta	cardiology	cardiologists	1
+aresta	cardiology	vascular	1
+aresta	cardiology	radiography	1
+aresta	cardiology	bypass	1
+aresta	cardiology	vessel	1
+aresta	cardiology	CABG	1
+aresta	cardiology	therapies	1
+aresta	cardiology	procedures	1
+aresta	cardiology	stents	1
+aresta	cardiology	endothelial	1
+aresta	cardiology	etiology	1
+aresta	cardiology	correlations	1
+aresta	cardiology	heart	1
+vertice	atherosclerosis
+vertice	botanical
+aresta	botanical	complementary	1
+aresta	botanical	genus	1
+aresta	botanical	species	1
+vertice	plaque
+vertice	artery
+vertice	occlusion
+vertice	inflammation
+aresta	inflammation	diet	1
+aresta	inflammation	proinflammatory	1
+vertice	cardiovascular
+vertice	botanicals
+aresta	botanicals	phytotherapy	1
+aresta	botanicals	plants	1
+aresta	botanicals	phytotherapies	1
+aresta	botanicals	medicinal	1
+vertice	coronary
+vertice	herbal
+vertice	syndrome
+vertice	herbals
+vertice	clinical
+aresta	clinical	dietary	1
+vertice	microbiology
+vertice	image
+aresta	image	photo	1
+aresta	image	region	1
+aresta	image	constraint	1
+vertice	photo
+aresta	photo	camera	1
+aresta	photo	gallery	1
+aresta	photo	picture	1
+vertice	learning
+aresta	learning	machine	1
+aresta	learning	teaching	1
+aresta	learning	games	1
+aresta	learning	narrative	1
+aresta	learning	assessment	1
+aresta	learning	organization	1
+aresta	learning	cognition	1
+aresta	learning	literacy	1
+aresta	learning	participatory	1
+aresta	learning	evaluation	1
+aresta	learning	ml	1
+aresta	learning	disability	1
+aresta	learning	memory	1
+aresta	learning	informal	1
+aresta	learning	reinforcement	1
+aresta	learning	constructivism	1
+aresta	learning	semiotics	1
+aresta	learning	statistical	1
+aresta	learning	mathematical	1
+aresta	learning	educational	1
+aresta	learning	developmental	1
+aresta	learning	training	1
+aresta	learning	relational	1
+aresta	learning	course	1
+aresta	learning	based	1
+vertice	machine
+vertice	teaching
+aresta	teaching	rad	1
+aresta	teaching	neo-latin	1
+aresta	teaching	rim	1
+vertice	games
+aresta	games	violence	1
+aresta	games	emulation	1
+aresta	games	gaming	1
+aresta	games	play	1
+vertice	video
+aresta	video	audio	1
+aresta	video	lecture	1
+aresta	video	lectures	1
+aresta	video	videos	1
+aresta	video	movies	1
+aresta	video	humor	1
+aresta	video	movie	1
+aresta	video	webcam	1
+aresta	video	TV	1
+vertice	audio
+vertice	shopping
+aresta	shopping	russian	1
+aresta	shopping	shop	1
+vertice	russian
+vertice	shop
+aresta	shop	boomerang	1
+aresta	shop	wood	1
+vertice	geophysics
+aresta	geophysics	volcanoes	1
+aresta	geophysics	faults	1
+aresta	geophysics	refraction	1
+aresta	geophysics	crust	1
+aresta	geophysics	inversion	1
+aresta	geophysics	mantle	1
+aresta	geophysics	apennines	1
+aresta	geophysics	amplitudes	1
+aresta	geophysics	hazard	1
+aresta	geophysics	subduction	1
+aresta	geophysics	geodesy	1
+aresta	geophysics	attenuation	1
+vertice	volcanoes
+aresta	volcanoes	vesuvius	1
+aresta	volcanoes	melt	1
+vertice	blog
+aresta	blog	contribution	1
+aresta	blog	christian	1
+aresta	blog	politics	1
+aresta	blog	blogger	1
+aresta	blog	feed	1
+aresta	blog	austin	1
+aresta	blog	rant	1
+aresta	blog	funny	1
+aresta	blog	creation	1
+aresta	blog	copyright	1
+aresta	blog	feature	1
+aresta	blog	info	1
+aresta	blog	interview	1
+aresta	blog	anthropology	1
+aresta	blog	advertising	1
+aresta	blog	analyse	1
+aresta	blog	personal	1
+vertice	contribution
+vertice	search
+aresta	search	engine	1
+aresta	search	tags	1
+aresta	search	ranking	1
+aresta	search	Google	1
+aresta	search	links	1
+aresta	search	engines	1
+aresta	search	goals	1
+aresta	search	directory	1
+aresta	search	people	1
+aresta	search	query	1
+aresta	search	personalized	1
+aresta	search	find	1
+aresta	search	search_engine	1
+aresta	search	rank	1
+aresta	search	searching	1
+vertice	engine
+vertice	genetic
+aresta	genetic	classifier	1
+aresta	genetic	grammatical	1
+aresta	genetic	artificial	1
+aresta	genetic	fitness	1
+aresta	genetic	object	1
+aresta	genetic	crossover	1
+aresta	genetic	size	1
+aresta	genetic	symbolic	1
+aresta	genetic	tree	1
+aresta	genetic	computational	1
+aresta	genetic	parameter	1
+aresta	genetic	optimisation	1
+aresta	genetic	selection	1
+aresta	genetic	length	1
+aresta	genetic	problem	1
+aresta	genetic	variable	1
+aresta	genetic	simulated	1
+aresta	genetic	automatic	1
+aresta	genetic	program	1
+vertice	classifier
+vertice	formal
+aresta	formal	lattices	1
+aresta	formal	attribute	1
+vertice	lattices
+vertice	game
+aresta	game	chess	1
+aresta	game	opening	1
+aresta	game	attack	1
+aresta	game	endgame	1
+aresta	game	middle	1
+aresta	game	Minority	1
+aresta	game	spiel	1
+aresta	game	tactics	1
+aresta	game	end	1
+vertice	chess
+vertice	community
+aresta	community	detection	1
+aresta	community	portal	1
+aresta	community	activism	1
+aresta	community	support	1
+vertice	detection
+aresta	detection	trend	1
+aresta	detection	duplicate	1
+aresta	detection	topic	1
+vertice	science
+aresta	science	physics	1
+aresta	science	astronomy	1
+aresta	science	surface	1
+aresta	science	publications	1
+aresta	science	magazines	1
+aresta	science	geology	1
+aresta	science	mind	1
+aresta	science	brain	1
+vertice	physics
+aresta	physics	granular	1
+aresta	physics	radioactivity	1
+aresta	physics	radiation	1
+aresta	physics	thesis	1
+aresta	physics	cosmology	1
+vertice	collaborative
+aresta	collaborative	filtering	1
+vertice	filtering
+aresta	filtering	Adaptive	1
+vertice	labor
+aresta	labor	union	1
+aresta	labor	chicago	1
+aresta	labor	steel	1
+vertice	union
+vertice	cardiac
+vertice	risks
+vertice	assessments
+vertice	Tx
+vertice	anti-inflammatory
+vertice	inflammatory
+aresta	inflammatory	interleukins	1
+aresta	inflammatory	lipids	1
+aresta	inflammatory	nutrients	1
+aresta	inflammatory	infarction	1
+aresta	inflammatory	levels	1
+aresta	inflammatory	normal	1
+vertice	interleukins
+aresta	interleukins	micronutrients	1
+vertice	cardiologists
+vertice	vascular
+vertice	radiography
+vertice	bypass
+vertice	vessel
+vertice	CABG
+aresta	CABG	etiologies	1
+vertice	therapies
+vertice	procedures
+vertice	stents
+vertice	knowledge
+aresta	knowledge	discovery	1
+aresta	knowledge	representation	1
+aresta	knowledge	concept	1
+aresta	knowledge	acquisition	1
+aresta	knowledge	formal	1
+aresta	knowledge	logic	1
+aresta	knowledge	base	1
+vertice	discovery
+vertice	dialog
+vertice	representation
+vertice	concept
+aresta	concept	iccs	1
+aresta	concept	closed	1
+aresta	concept	lattice	1
+vertice	iccs
+aresta	iccs	structures	1
+aresta	iccs	invited	1
+aresta	iccs	talk	1
+vertice	lisp
+vertice	Countries
+vertice	Austria
+vertice	Corpora
+vertice	Companies
+vertice	math
+vertice	Java
+aresta	Java	Eclipse	1
+vertice	algorithms
+vertice	parallel
+vertice	requirements
+aresta	requirements	empirical	1
+aresta	requirements	goal	1
+vertice	photography
+aresta	photography	photographers	1
+aresta	photography	lens	1
+aresta	photography	cameras	1
+vertice	project
+aresta	project	eu	1
+vertice	bash
+vertice	kernel
+vertice	shell
+vertice	encryption
+vertice	backup
+aresta	backup	sync	1
+vertice	Mac
+aresta	Mac	Apple	1
+vertice	office
+vertice	browser
+vertice	statistics
+aresta	statistics	R	1
+aresta	statistics	order	1
+aresta	statistics	uncertainty	1
+aresta	statistics	trends	1
+aresta	statistics	robust	1
+aresta	statistics	probability	1
+aresta	statistics	bayesian	1
+aresta	statistics	inference	1
+aresta	statistics	regression	1
+vertice	R
+vertice	gui
+aresta	gui	swing	1
+vertice	swing
+vertice	productivity
+vertice	latex
+aresta	latex	typesetting	1
+vertice	agile
+vertice	semantics
+aresta	semantics	operational	1
+aresta	semantics	refinement	1
+aresta	semantics	syntax	1
+aresta	semantics	emergent	1
+vertice	groupware
+vertice	faults
+vertice	refraction
+vertice	crust
+vertice	testing
+aresta	testing	diagrams	1
+aresta	testing	line	1
+vertice	BIB
+aresta	BIB	Atelier	1
+aresta	BIB	metier	1
+aresta	BIB	catalogue	1
+aresta	BIB	critique	1
+aresta	BIB	formation	1
+aresta	BIB	Amazon	1
+vertice	Atelier
+vertice	maintenance
+vertice	writing
+aresta	writing	creative	1
+aresta	writing	writers	1
+aresta	writing	style	1
+vertice	annotation
+vertice	user
+aresta	user	contact	1
+aresta	user	emotion	1
+aresta	user	profile	1
+aresta	user	interfaces	1
+vertice	graph
+aresta	graph	spectral	1
+aresta	graph	wallpaper	1
+aresta	graph	transformation	1
+aresta	graph	rewriting	1
+vertice	shelf
+vertice	process
+aresta	process	point	1
+aresta	process	branching	1
+aresta	process	Markov	1
+vertice	guide
+aresta	guide	FAQ	1
+vertice	music
+aresta	music	radio	1
+aresta	music	jazz	1
+aresta	music	streaming	1
+aresta	music	guitar	1
+aresta	music	sound	1
+aresta	music	player	1
+aresta	music	entertainment	1
+aresta	music	band	1
+aresta	music	songs	1
+aresta	music	lyrics	1
+aresta	music	indie	1
+aresta	music	classical	1
+aresta	music	midi	1
+aresta	music	song	1
+aresta	music	rock	1
+aresta	music	electronic	1
+aresta	music	festival	1
+vertice	radio
+vertice	jazz
+vertice	streaming
+vertice	speech
+aresta	speech	synthesis	1
+vertice	delicious
+vertice	mobile
+aresta	mobile	phone	1
+aresta	mobile	cellphone	1
+aresta	mobile	telephone	1
+aresta	mobile	android	1
+aresta	mobile	location	1
+aresta	mobile	handy	1
+aresta	mobile	cell	1
+aresta	mobile	robot	1
+aresta	mobile	sms	1
+aresta	mobile	phones	1
+vertice	phone
+vertice	tags
+vertice	ranking
+vertice	Internet
+aresta	Internet	Telemarketing	1
+aresta	Internet	users	1
+aresta	Internet	Economy	1
+vertice	Telemarketing
+vertice	users
+vertice	Reorganisation
+vertice	Handel
+vertice	Kind
+vertice	Addresses
+vertice	Google
+aresta	Google	Yahoo	1
+vertice	links
+aresta	links	portals	1
+aresta	links	annotated	1
+aresta	links	roundups	1
+vertice	portals
+vertice	surgery
+vertice	labs
+vertice	guidelines
+vertice	cytokines
+vertice	trials
+aresta	trials	clinical_trials	1
+vertice	space
+aresta	space	satellite	1
+aresta	space	nasa	1
+vertice	blogs
+aresta	blogs	bloggers	1
+aresta	blogs	buzz	1
+aresta	blogs	life	1
+vertice	inspiration
+aresta	inspiration	template	1
+vertice	recognition
+vertice	drugs
+aresta	drugs	pharmaceuticals	1
+vertice	diagnosis
+vertice	biomedical
+vertice	reviews
+vertice	physicians
+vertice	methodology
+aresta	methodology	kinetic	1
+vertice	papers
+aresta	papers	poster	1
+vertice	poster
+vertice	practice
+vertice	virology
+vertice	prevention
+vertice	nutrition
+vertice	imaging
+aresta	imaging	seismology	1
+aresta	imaging	velocity	1
+aresta	imaging	tomography	1
+aresta	imaging	reflection	1
+aresta	imaging	scattering	1
+vertice	seismology
+vertice	velocity
+vertice	tomography
+vertice	herbs
+vertice	care
+vertice	supplements
+vertice	tests
+vertice	doctors
+vertice	journal
+aresta	journal	phenomenology	1
+aresta	journal	interoperability	1
+vertice	generator
+vertice	email
+aresta	email	mutt	1
+aresta	email	spam	1
+vertice	storage
+aresta	storage	files	1
+vertice	flash
+aresta	flash	flex	1
+vertice	aggregator
+aresta	aggregator	syndication	1
+vertice	tech
+aresta	tech	geek	1
+vertice	list
+vertice	presence
+vertice	programme
+vertice	extension
+aresta	extension	HTML	1
+aresta	extension	tester	1
+aresta	extension	thunderbird	1
+aresta	extension	tab	1
+vertice	film
+aresta	film	watched	1
+aresta	film	television	1
+aresta	film	cinema	1
+aresta	film	documentary	1
+aresta	film	reseau	1
+vertice	watched
+vertice	television
+vertice	theory
+aresta	theory	film	1
+aresta	theory	identity	1
+aresta	theory	use	1
+aresta	theory	literature	1
+aresta	theory	definitions	1
+aresta	theory	activity	1
+aresta	theory	game	1
+aresta	theory	strategy	1
+aresta	theory	complexity	1
+aresta	theory	behavior	1
+aresta	theory	historiography	1
+aresta	theory	economic	1
+aresta	theory	field	1
+aresta	theory	power	1
+aresta	theory	firm	1
+aresta	theory	string	1
+aresta	theory	rhetoric	1
+aresta	theory	action	1
+aresta	theory	quantum	1
+aresta	theory	value	1
+aresta	theory	random	1
+vertice	identity
+vertice	narrative
+aresta	narrative	autobiography	1
+aresta	narrative	hypertext	1
+vertice	rad
+vertice	language
+aresta	language	dictionary	1
+aresta	language	linguistics	1
+aresta	language	natural	1
+aresta	language	grammar	1
+aresta	language	cognitive	1
+aresta	language	translation	1
+aresta	language	summarization	1
+aresta	language	words	1
+aresta	language	dsl	1
+aresta	language	japanese	1
+vertice	dictionary
+aresta	dictionary	lexicon	1
+vertice	linguistics
+vertice	natural
+vertice	services
+vertice	marketing
+vertice	hosting
+aresta	hosting	upload	1
+vertice	server
+vertice	standards
+vertice	extraction
+aresta	extraction	relation	1
+vertice	systems
+aresta	systems	dynamical	1
+aresta	systems	nonlinear	1
+aresta	systems	particle	1
+vertice	cognitive
+aresta	cognitive	lexical	1
+vertice	lexical
+aresta	lexical	priming	1
+vertice	higher
+vertice	pedagogy
+vertice	Receptor
+aresta	Receptor	Reticulum	1
+aresta	Receptor	Adrenergic	1
+aresta	Receptor	Kinetics	1
+aresta	Receptor	Competitive	1
+aresta	Receptor	Blotting	1
+aresta	Receptor	Potassium	1
+aresta	Receptor	Ligands	1
+aresta	Receptor	Tyrosine	1
+aresta	Receptor	Guinea	1
+aresta	Receptor	Fluorescent	1
+vertice	Reticulum
+aresta	Reticulum	Caffeine	1
+vertice	Adrenergic
+vertice	technology
+aresta	technology	innovation	1
+aresta	technology	impact	1
+aresta	technology	change	1
+aresta	technology	future	1
+vertice	innovation
+aresta	innovation	managing	1
+aresta	innovation	MBA	1
+aresta	innovation	diffusion	1
+vertice	christian
+vertice	politics
+aresta	politics	progressive	1
+aresta	politics	nationalism	1
+aresta	politics	Left	1
+aresta	politics	weimar_republic	1
+aresta	politics	government	1
+aresta	politics	democracy	1
+aresta	politics	bush	1
+aresta	politics	religion	1
+aresta	politics	revolution	1
+aresta	politics	Israel	1
+aresta	politics	climate	1
+aresta	politics	US	1
+vertice	progressive
+aresta	progressive	radicalism	1
+vertice	bookmark
+vertice	photos
+aresta	photos	photographs	1
+aresta	photos	cats	1
+aresta	photos	pictures	1
+aresta	photos	galleries	1
+aresta	photos	landscapes	1
+aresta	photos	albums	1
+aresta	photos	abstracts	1
+aresta	photos	water	1
+aresta	photos	birds	1
+aresta	photos	flowers	1
+aresta	photos	sky	1
+aresta	photos	pics	1
+aresta	photos	macro	1
+aresta	photos	nature	1
+vertice	photographs
+vertice	PhD
+aresta	PhD	Proposal	1
+vertice	Proposal
+vertice	linked
+vertice	grammatical
+vertice	opening
+vertice	art
+aresta	art	illustration	1
+aresta	art	painting	1
+aresta	art	animation	1
+aresta	art	artist	1
+aresta	art	arts	1
+aresta	art	drawing	1
+aresta	art	aesthetics	1
+aresta	art	form	1
+aresta	art	photographer	1
+aresta	art	projects	1
+aresta	art	artiste	1
+aresta	art	interesting	1
+vertice	illustration
+vertice	painting
+vertice	astronomy
+vertice	surface
+vertice	tool
+aresta	tool	woodworking	1
+aresta	tool	plane	1
+vertice	woodworking
+vertice	digital
+aresta	digital	commercial	1
+aresta	digital	humanities	1
+vertice	commercial
+vertice	Europe
+aresta	Europe	Europa	1
+aresta	Europe	Eastern	1
+aresta	Europe	Economic_conditions	1
+aresta	Europe	Congresses	1
+aresta	Europe	European_Union	1
+vertice	Europa
+vertice	lecture
+vertice	poetry
+aresta	poetry	poems	1
+aresta	poetry	poets	1
+vertice	poems
+aresta	poems	poetics	1
+vertice	kilo
+aresta	kilo	backdoors	1
+vertice	backdoors
+vertice	free
+aresta	free	downloads	1
+aresta	free	share	1
+aresta	free	collection	1
+aresta	free	commons	1
+aresta	free	font	1
+vertice	downloads
+vertice	Calcium
+aresta	Calcium	Contraction	1
+aresta	Calcium	Gating	1
+aresta	Calcium	Exchanger	1
+aresta	Calcium	Congestive	1
+aresta	Calcium	Extramural	1
+aresta	Calcium	Pigs	1
+aresta	Calcium	Dogs	1
+aresta	Calcium	Intracellular	1
+vertice	Contraction
+vertice	Gating
+vertice	compounds
+aresta	compounds	psycholinguistics	1
+vertice	psycholinguistics
+vertice	business
+aresta	business	rules	1
+aresta	business	cycles	1
+aresta	business	intelligence	1
+aresta	business	event	1
+aresta	business	decision	1
+aresta	business	money	1
+aresta	business	startup	1
+vertice	rules
+vertice	time
+aresta	time	series	1
+aresta	time	date	1
+vertice	series
+vertice	Animals
+aresta	Animals	Rats	1
+aresta	Animals	Assay	1
+aresta	Animals	Kinases	1
+aresta	Animals	Cultured	1
+aresta	Animals	Adenosine	1
+aresta	Animals	Transduction	1
+aresta	Animals	Ticks	1
+aresta	Animals	Antibodies	1
+aresta	Animals	Mutation	1
+aresta	Animals	RNA	1
+aresta	Animals	Eye	1
+aresta	Animals	Animal	1
+vertice	Rats
+vertice	gender
+aresta	gender	feminism	1
+aresta	gender	queer	1
+aresta	gender	frauen	1
+aresta	gender	MA	1
+vertice	feminism
+vertice	wireless
+aresta	wireless	wifi	1
+vertice	wifi
+aresta	wifi	wlan	1
+vertice	safety
+aresta	safety	incident	1
+aresta	safety	survival	1
+vertice	incident
+vertice	reference
+aresta	reference	documentation	1
+aresta	reference	manual	1
+aresta	reference	encyclopedia	1
+aresta	reference	resource	1
+vertice	documentation
+aresta	documentation	package	1
+vertice	Sensitivity
+aresta	Sensitivity	Microbial	1
+aresta	Sensitivity	Resistance	1
+aresta	Sensitivity	beta-Lactamases	1
+vertice	Microbial
+vertice	religion
+aresta	religion	christianity	1
+aresta	religion	theology	1
+aresta	religion	jewish	1
+aresta	religion	bible	1
+aresta	religion	faith	1
+aresta	religion	church	1
+vertice	christianity
+vertice	mapping
+aresta	mapping	epitope	1
+vertice	epitope
+vertice	homogeneous
+aresta	homogeneous	immunoassay	1
+aresta	homogeneous	electrochemistry	1
+vertice	immunoassay
+aresta	immunoassay	liposome	1
+aresta	immunoassay	sandwich	1
+vertice	exchange
+aresta	exchange	Foreign	1
+aresta	exchange	rates	1
+vertice	Foreign
+aresta	Foreign	Investments	1
+vertice	world
+aresta	world	real	1
+aresta	world	small	1
+vertice	real
+vertice	seminar
+aresta	seminar	sorting	1
+vertice	sorting
+vertice	maps
+aresta	maps	carte	1
+vertice	carte
+vertice	function
+aresta	function	risk	1
+vertice	lipids
+aresta	lipids	lipid	1
+aresta	lipids	ischemia	1
+aresta	lipids	angina	1
+aresta	lipids	marker	1
+vertice	lipid
+vertice	ischemia
+vertice	angina
+vertice	marker
+vertice	nutrients
+vertice	micronutrients
+vertice	infarction
+vertice	levels
+vertice	normal
+vertice	endothelial
+vertice	diet
+vertice	clinical_trials
+vertice	risk
+vertice	queer
+vertice	frauen
+vertice	use
+aresta	use	therapeutic	1
+aresta	use	Female	1
+aresta	use	Angiogenesis	1
+aresta	use	antagonists	1
+aresta	use	inhibitors	1
+vertice	therapeutic
+vertice	spectral
+vertice	wallpaper
+vertice	poetics
+vertice	poets
+vertice	literature
+aresta	literature	poetry	1
+aresta	literature	fiction	1
+vertice	fiction
+vertice	definitions
+vertice	activity
+vertice	internal
+vertice	general
+aresta	general	primary	1
+aresta	general	family	1
+vertice	primary
+vertice	family
+vertice	overviews
+vertice	cinema
+vertice	attack
+vertice	endgame
+vertice	middle
+vertice	Minority
+vertice	strategy
+aresta	strategy	strategic	1
+vertice	strategic
+aresta	strategic	geopolitics	1
+vertice	neo-latin
+aresta	neo-latin	dubrovnik	1
+vertice	dubrovnik
+vertice	Berlin
+aresta	Berlin	Brandenburg	1
+vertice	complexity
+aresta	complexity	emergence	1
+vertice	behavior
+vertice	historiography
+vertice	accessibility
+vertice	job
+vertice	economic
+vertice	field
+vertice	courses
+vertice	ethnicity
+vertice	publication
+aresta	publication	proceedings	1
+vertice	proceedings
+vertice	bloggers
+vertice	news
+aresta	news	magazine	1
+aresta	news	daily	1
+aresta	news	journalism	1
+aresta	news	newspaper	1
+aresta	news	Canada	1
+aresta	news	tajikistan	1
+aresta	news	shopping	1
+aresta	news	newspapers	1
+vertice	magazine
+vertice	daily
+vertice	journalism
+vertice	Germanic
+vertice	Retailers
+vertice	Bookmarkers
+vertice	Accommodation
+vertice	Rail
+vertice	Platforms
+vertice	Associations
+vertice	Institutes
+vertice	DVD
+vertice	Portables
+vertice	Destinations
+vertice	Psychology
+vertice	useful
+vertice	Management
+aresta	Management	Case_studies	1
+aresta	Management	Industrial_management	1
+aresta	Management	Personnel	1
+aresta	Management	Information_technology	1
+vertice	Case_studies
+vertice	IT
+vertice	Drinks
+vertice	Bruxelles
+vertice	newspaper
+vertice	university
+vertice	similarity
+aresta	similarity	wordnet	1
+aresta	similarity	measure	1
+vertice	taxonomy
+vertice	merging
+vertice	protege
+vertice	assist
+vertice	NeOn
+vertice	mappings
+vertice	matching
+vertice	parser
+vertice	OWL
+vertice	inversion
+vertice	vesuvius
+vertice	mantle
+vertice	apennines
+vertice	amplitudes
+vertice	methods
+aresta	methods	Animals	1
+aresta	methods	protein	1
+aresta	methods	Specificity	1
+aresta	methods	response	1
+aresta	methods	metabolism	1
+aresta	methods	therapy	1
+aresta	methods	Reproducibility	1
+aresta	methods	Chemistry	1
+aresta	methods	blood	1
+aresta	methods	drug	1
+aresta	methods	migration	1
+vertice	reflection
+vertice	Assay
+vertice	Kinases
+vertice	Cultured
+vertice	Adenosine
+vertice	Transduction
+vertice	Ticks
+vertice	phytotherapy
+vertice	plants
+vertice	phytotherapies
+vertice	medicinal
+aresta	medicinal	monographs	1
+vertice	pubs
+vertice	books
+aresta	books	libraries	1
+aresta	books	publishing	1
+aresta	books	reading	1
+aresta	books	dictionaries	1
+vertice	libraries
+vertice	publishing
+vertice	study
+aresta	study	case	1
+vertice	workshop
+vertice	metadata
+aresta	metadata	museums	1
+aresta	metadata	bibliographic	1
+aresta	metadata	cataloging	1
+aresta	metadata	archives	1
+vertice	desktop
+aresta	desktop	gnome	1
+aresta	desktop	nautilus	1
+aresta	desktop	scripts	1
+vertice	gnome
+vertice	agent
+vertice	ngs
+vertice	device
+vertice	sensor
+vertice	answer
+vertice	contact
+vertice	emotion
+vertice	citation
+vertice	complementary
+vertice	dietary
+vertice	animation
+vertice	artist
+aresta	artist	cards	1
+vertice	camera
+vertice	gallery
+vertice	arts
+vertice	drawing
+vertice	nationalism
+vertice	Left
+vertice	hub
+vertice	algebra
+aresta	algebra	topology	1
+aresta	algebra	homology	1
+vertice	topology
+vertice	homology
+vertice	children
+vertice	bacteria
+vertice	chronic
+vertice	scholarship
+vertice	health
+aresta	health	wellness	1
+aresta	health	food	1
+aresta	health	public	1
+vertice	references
+aresta	references	bibliographies	1
+vertice	CAM
+vertice	databases
+vertice	alternative
+aresta	alternative	integrative	1
+vertice	healthcare
+vertice	managing
+vertice	MBA
+vertice	articles
+aresta	articles	fundamentals	1
+aresta	articles	preservation	1
+vertice	graphs
+aresta	graphs	conceptual	1
+vertice	conceptual
+vertice	visualisation
+vertice	navigation
+aresta	navigation	rhizome	1
+aresta	navigation	menu	1
+vertice	rhizome
+vertice	recherche
+vertice	funding
+vertice	calendar
+vertice	economics
+aresta	economics	finance	1
+vertice	recommendation
+vertice	motivation
+vertice	cellphone
+vertice	telephone
+vertice	android
+vertice	location
+vertice	handy
+vertice	update
+vertice	portrait
+vertice	acquisition
+vertice	description
+aresta	description	logics	1
+vertice	logics
+vertice	logic
+aresta	logic	description	1
+aresta	logic	reasoning	1
+aresta	logic	fuzzy	1
+vertice	cloud
+vertice	functional
+vertice	maven
+vertice	hibernate
+vertice	languages
+vertice	C
+vertice	scripting
+vertice	coding
+aresta	coding	compression	1
+vertice	evolutionary
+aresta	evolutionary	computation	1
+vertice	extensions
+vertice	mutt
+vertice	spam
+vertice	tag
+vertice	fun
+aresta	fun	humour	1
+aresta	fun	idea	1
+aresta	fun	toy	1
+vertice	humour
+vertice	website
+vertice	utility
+vertice	sync
+aresta	sync	synchroniser	1
+vertice	vista
+vertice	cats
+vertice	pictures
+vertice	galleries
+vertice	landscapes
+vertice	metier
+vertice	catalogue
+vertice	multimedia
+vertice	HTML
+aresta	HTML	ALL	1
+vertice	ALL
+vertice	tester
+vertice	thunderbird
+vertice	advice
+vertice	test
+vertice	text
+aresta	text	tm	1
+aresta	text	categorization	1
+aresta	text	word	1
+vertice	sharing
+aresta	sharing	file	1
+vertice	feeds
+aresta	feeds	atom	1
+vertice	atom
+vertice	guitar
+vertice	sound
+vertice	player
+vertice	Apple
+vertice	portable
+vertice	cluster
+vertice	boot
+aresta	boot	grub	1
+aresta	boot	rescue	1
+vertice	driver
+vertice	mail
+vertice	fedora
+vertice	laptop
+vertice	monitoring
+vertice	firewall
+vertice	install
+vertice	presentation
+vertice	hacks
+vertice	tutorials
+aresta	tutorials	guides	1
+aresta	tutorials	lessons	1
+vertice	guides
+vertice	lessons
+vertice	icons
+vertice	survey
+vertice	privacy
+aresta	privacy	proxy	1
+aresta	privacy	IP	1
+aresta	privacy	anonymity	1
+vertice	proxy
+aresta	proxy	anonymous	1
+vertice	generation
+vertice	cool
+vertice	complex
+vertice	epidemics
+vertice	neural
+vertice	editors
+vertice	color
+aresta	color	colors	1
+aresta	color	colour	1
+vertice	rivalry
+vertice	authentication
+vertice	hacking
+vertice	cryptography
+vertice	war
+aresta	war	warfare	1
+aresta	war	military	1
+vertice	password
+vertice	converter
+vertice	system
+vertice	distributed
+aresta	distributed	verification	1
+vertice	build
+vertice	team
+vertice	synthesis
+vertice	configuration
+vertice	separation
+aresta	separation	Blind	1
+vertice	Blind
+vertice	earthquake
+aresta	earthquake	wholesale	1
+aresta	earthquake	Supplies	1
+aresta	earthquake	preparedness	1
+aresta	earthquake	Kit	1
+aresta	earthquake	Aid	1
+aresta	earthquake	hour	1
+vertice	wholesale
+vertice	Supplies
+vertice	preparedness
+vertice	Kit
+vertice	Aid
+vertice	hour
+vertice	recovery
+vertice	workflow
+aresta	workflow	kepler	1
+aresta	workflow	provenance	1
+vertice	kepler
+vertice	spring
+vertice	modeling
+vertice	reverse
+vertice	grammar
+aresta	grammar	arabic	1
+vertice	priming
+vertice	translation
+vertice	summarization
+vertice	FAQ
+vertice	portal
+vertice	activism
+aresta	activism	advocacy	1
+vertice	images
+vertice	script
+vertice	algorithm
+aresta	algorithm	seminar	1
+aresta	algorithm	EM	1
+aresta	algorithm	stemming	1
+vertice	Array
+vertice	temporal
+vertice	signal
+vertice	repository
+vertice	simulation
+aresta	simulation	Monte	1
+vertice	assessment
+aresta	assessment	formative	1
+aresta	assessment	basic	1
+vertice	organization
+aresta	organization	labor	1
+vertice	cognition
+aresta	cognition	embodied	1
+aresta	cognition	perception	1
+vertice	literacy
+vertice	participatory
+vertice	artificial
+vertice	fitness
+vertice	evaluation
+aresta	evaluation	master	1
+vertice	ml
+vertice	policy
+aresta	policy	Fiscal	1
+aresta	policy	trade	1
+aresta	policy	monetary	1
+vertice	Fiscal
+vertice	trade
+vertice	distance
+vertice	schools
+vertice	teachers
+vertice	granular
+aresta	granular	gases	1
+aresta	granular	friction	1
+vertice	radioactivity
+vertice	radiation
+vertice	school
+aresta	school	college	1
+vertice	model
+aresta	model	modelling	1
+aresta	model	linear	1
+aresta	model	predictive	1
+vertice	modelling
+vertice	linear
+vertice	www
+vertice	map
+aresta	map	earth	1
+vertice	http
+vertice	rest
+vertice	site
+vertice	engines
+vertice	goals
+vertice	directory
+vertice	people
+vertice	query
+aresta	query	log	1
+vertice	schizophrenia
+vertice	dynamical
+vertice	magnetic
+aresta	magnetic	walls	1
+aresta	magnetic	ferromagnetic	1
+aresta	magnetic	resonance	1
+vertice	walls
+vertice	layout
+vertice	templates
+aresta	templates	themes	1
+vertice	typography
+vertice	encapsulation
+vertice	icon
+vertice	Empire
+aresta	Empire	Switch	1
+aresta	Empire	Fittings	1
+aresta	Empire	birmingham	1
+vertice	Switch
+vertice	Fittings
+vertice	birmingham
+vertice	publications
+vertice	Membrane
+aresta	Membrane	Ventricles	1
+aresta	Membrane	Stimulation	1
+aresta	Membrane	Outer	1
+aresta	Membrane	Myocardium	1
+aresta	Membrane	Bacterial	1
+aresta	Membrane	Antigens	1
+vertice	Ventricles
+vertice	Stimulation
+aresta	Stimulation	Amygdala	1
+vertice	Outer
+vertice	Myocardium
+aresta	Myocardium	Sarcolemma	1
+aresta	Myocardium	Cytosol	1
+vertice	Sarcolemma
+vertice	Bacterial
+aresta	Bacterial	Vaccines	1
+aresta	Bacterial	Capsules	1
+aresta	Bacterial	Phylogeny	1
+aresta	Bacterial	Outbreaks	1
+vertice	Vaccines
+vertice	Capsules
+vertice	Panel
+vertice	stream
+aresta	stream	window	1
+vertice	hack
+aresta	hack	crack	1
+vertice	therapy
+aresta	therapy	Neoplasms	1
+aresta	therapy	Markers	1
+aresta	therapy	Antineoplastic	1
+vertice	Neoplasms
+vertice	communities
+vertice	dynamics
+vertice	pricing
+aresta	pricing	Asset	1
+vertice	Asset
+vertice	manual
+aresta	manual	docs	1
+vertice	encyclopedia
+vertice	plane
+vertice	liposome
+vertice	competition
+aresta	competition	homogeneous	1
+aresta	competition	Imperfect	1
+vertice	survival
+aresta	survival	classroom	1
+aresta	survival	emergency	1
+vertice	classroom
+vertice	emergency
+vertice	impact
+vertice	change
+vertice	future
+vertice	models
+aresta	models	vegetation	1
+vertice	vegetation
+vertice	Kinetics
+vertice	development
+aresta	development	globalization	1
+aresta	development	intro	1
+vertice	globalization
+vertice	History
+aresta	History	Great_Britain	1
+vertice	Great_Britain
+aresta	Great_Britain	Unemployment	1
+vertice	semiconductor
+aresta	semiconductor	semiconductors	1
+aresta	semiconductor	dots	1
+aresta	semiconductor	organic	1
+aresta	semiconductor	gallium	1
+aresta	semiconductor	wavelength	1
+aresta	semiconductor	fibre	1
+vertice	semiconductors
+vertice	dots
+vertice	organic
+vertice	gallium
+vertice	blogger
+vertice	feed
+vertice	trust
+aresta	trust	reputation	1
+vertice	reputation
+vertice	brain
+aresta	brain	neuroscience	1
+aresta	brain	neurology	1
+vertice	neuroscience
+vertice	Exchanger
+vertice	Preschool
+aresta	Preschool	Meningitis	1
+vertice	Meningitis
+vertice	illinois
+aresta	illinois	il	1
+aresta	illinois	restoration	1
+vertice	il
+vertice	restoration
+vertice	life
+aresta	life	second	1
+vertice	second
+vertice	rehabilitation
+aresta	rehabilitation	Injury	1
+aresta	rehabilitation	Pain	1
+vertice	Injury
+vertice	Pain
+vertice	Resistance
+aresta	Resistance	Pseudomonas	1
+aresta	Resistance	Staphylococcal	1
+vertice	region
+aresta	region	labeling	1
+vertice	labeling
+vertice	equation
+aresta	equation	differential	1
+aresta	equation	Boltzmann	1
+vertice	differential
+vertice	lectures
+vertice	videos
+vertice	movies
+aresta	movies	films	1
+vertice	humor
+aresta	humor	comics	1
+aresta	humor	cute	1
+aresta	humor	comic	1
+vertice	movie
+vertice	phase
+aresta	phase	transitions	1
+vertice	transitions
+vertice	personal
+aresta	personal	copy	1
+aresta	personal	safety	1
+vertice	copy
+vertice	U.S.
+aresta	U.S.	Rabbits	1
+aresta	U.S.	Muscles	1
+vertice	Rabbits
+vertice	effects
+aresta	effects	Male	1
+vertice	Male
+vertice	theology
+vertice	Investments
+vertice	article
+aresta	article	society	1
+aresta	article	induction	1
+aresta	article	italian	1
+aresta	article	ethnology	1
+vertice	society
+vertice	food
+aresta	food	recipes	1
+aresta	food	cooking	1
+vertice	recipes
+vertice	cooking
+vertice	Eastern
+vertice	Economic_conditions
+aresta	Economic_conditions	Developing_countries	1
+vertice	Developing_countries
+vertice	Congresses
+vertice	Markov
+aresta	Markov	chains	1
+aresta	Markov	chain	1
+vertice	chains
+vertice	chain
+vertice	read
+aresta	read	reception	1
+aresta	read	popularity	1
+vertice	reception
+vertice	Potentials
+aresta	Potentials	Evoked	1
+aresta	Potentials	Excitatory	1
+aresta	Potentials	Synaptic	1
+aresta	Potentials	Neurological	1
+vertice	Evoked
+aresta	Evoked	Photic	1
+vertice	growth
+aresta	growth	Endogenous	1
+vertice	Endogenous
+vertice	alloys
+aresta	alloys	nitrides	1
+vertice	nitrides
+vertice	public
+aresta	public	Initial	1
+aresta	public	goods	1
+vertice	Initial
+aresta	Initial	offerings	1
+vertice	random
+aresta	random	walk	1
+aresta	random	variables	1
+aresta	random	fields	1
+aresta	random	conditional	1
+aresta	random	walks	1
+vertice	walk
+vertice	variables
+vertice	comics
+aresta	comics	cartoons	1
+aresta	comics	cartoon	1
+vertice	cartoons
+vertice	Subjects
+aresta	Subjects	Hardcover	1
+aresta	Subjects	Paperback	1
+vertice	Hardcover
+vertice	Paperback
+vertice	cycles
+vertice	intelligence
+aresta	intelligence	collective	1
+vertice	ins
+vertice	mobbing
+aresta	mobbing	bag	1
+aresta	mobbing	verdi	1
+vertice	bag
+vertice	wlan
+vertice	environment
+aresta	environment	sustainability	1
+aresta	environment	green	1
+aresta	environment	ecology	1
+vertice	sustainability
+vertice	green
+vertice	optical
+aresta	optical	laser	1
+aresta	optical	optics	1
+aresta	optical	division	1
+aresta	optical	modulation	1
+vertice	laser
+vertice	Electric
+aresta	Electric	Conductivity	1
+vertice	Conductivity
+vertice	master
+aresta	master	topics	1
+aresta	master	nearest	1
+aresta	master	neighbor	1
+vertice	topics
+vertice	direct
+aresta	direct	investment	1
+vertice	investment
+vertice	travel
+aresta	travel	flights	1
+aresta	travel	tourism	1
+aresta	travel	mountain	1
+vertice	flights
+vertice	rates
+vertice	interview
+aresta	interview	hps	1
+vertice	hps
+vertice	performance
+aresta	performance	tuning	1
+aresta	performance	benchmark	1
+vertice	tuning
+vertice	cancer
+aresta	cancer	oncology	1
+vertice	oncology
+vertice	statistical
+aresta	statistical	mechanics	1
+vertice	mechanics
+vertice	properties
+aresta	properties	thermodynamic	1
+aresta	properties	brine	1
+vertice	thermodynamic
+vertice	open
+aresta	open	content	1
+vertice	content
+vertice	diss
+aresta	diss	interruptions	1
+vertice	interruptions
+vertice	dynamic
+aresta	dynamic	geometry	1
+vertice	geometry
+vertice	etiologies
+vertice	etiology
+vertice	correlations
+vertice	heart
+vertice	proinflammatory
+vertice	genus
+vertice	monographs
+vertice	species
+vertice	digitisation
+aresta	digitisation	Hrvatska	1
+vertice	Hrvatska
+vertice	MA
+vertice	Female
+vertice	Angiogenesis
+vertice	antagonists
+vertice	inhibitors
+vertice	warfare
+vertice	military
+vertice	transformation
+vertice	rewriting
+vertice	autobiography
+vertice	hypertext
+aresta	hypertext	hypermedia	1
+vertice	hypermedia
+vertice	Economy
+vertice	Sponsoring
+vertice	Brandenburg
+vertice	World_Trade_Organization
+vertice	Bremen
+vertice	Frau
+vertice	Land
+vertice	geek
+vertice	advocacy
+vertice	radicalism
+vertice	influenza
+aresta	influenza	epi	1
+vertice	epi
+vertice	cooperation
+vertice	strategies
+vertice	empirical
+vertice	goal
+vertice	melt
+vertice	hazard
+vertice	subduction
+vertice	geodesy
+vertice	attenuation
+vertice	endocrinology
+vertice	diabetes
+vertice	power
+aresta	power	parity	1
+aresta	power	sea	1
+vertice	parity
+vertice	sea
+vertice	geopolitics
+vertice	firm
+vertice	documentary
+vertice	reseau
+vertice	string
+vertice	spiel
+vertice	tactics
+vertice	end
+vertice	rhetoric
+vertice	action
+vertice	rim
+vertice	quantum
+aresta	quantum	indium	1
+vertice	indium
+vertice	sequences
+vertice	maths
+vertice	limit
+aresta	limit	central	1
+vertice	central
+vertice	number
+vertice	discourse
+vertice	beliefs
+vertice	violence
+vertice	emulation
+aresta	emulation	roms	1
+vertice	roms
+vertice	gaming
+vertice	play
+vertice	emergence
+vertice	trend
+vertice	duplicate
+vertice	topic
+vertice	value
+vertice	structures
+vertice	invited
+vertice	talk
+vertice	reasoning
+vertice	fuzzy
+vertice	kinetic
+vertice	fields
+vertice	conditional
+vertice	walks
+vertice	diffusion
+vertice	chicago
+vertice	steel
+vertice	gases
+vertice	friction
+vertice	thesis
+vertice	cosmology
+aresta	cosmology	inflation	1
+vertice	inflation
+vertice	pos
+vertice	cartoon
+vertice	cute
+vertice	comic
+vertice	photographers
+vertice	lens
+vertice	cameras
+vertice	austin
+vertice	wordnet
+vertice	measure
+vertice	indexing
+vertice	syndication
+vertice	vocabulary
+vertice	taxonomies
+vertice	Yahoo
+vertice	virus
+vertice	spyware
+vertice	SIP
+vertice	disk
+aresta	disk	partition	1
+aresta	disk	recuperation	1
+vertice	partition
+vertice	recuperation
+vertice	anonymous
+vertice	nuclear
+vertice	ids
+vertice	bpm
+vertice	schema
+vertice	components
+vertice	persistence
+vertice	synchroniser
+vertice	rant
+vertice	funny
+aresta	funny	sex	1
+vertice	sex
+vertice	template
+vertice	themes
+vertice	creation
+vertice	IP
+vertice	anonymity
+vertice	phenomenology
+vertice	interoperability
+vertice	earth
+vertice	Russia
+vertice	Agents
+vertice	Biology
+vertice	Artists
+vertice	Broadcast
+vertice	Cities
+vertice	Airlines
+vertice	Economic_policy
+aresta	Economic_policy	Macroeconomics	1
+vertice	Macroeconomics
+vertice	Labor_market
+vertice	Unemployment
+vertice	Industrial_management
+vertice	Personnel
+vertice	Information_technology
+vertice	idea
+aresta	idea	expo	1
+vertice	expo
+vertice	toy
+vertice	docs
+vertice	typesetting
+vertice	critique
+vertice	formation
+vertice	Amazon
+vertice	package
+vertice	copyright
+vertice	feature
+vertice	info
+vertice	editing
+vertice	vim
+vertice	vi
+vertice	wysiwyg
+vertice	weimar_republic
+vertice	government
+vertice	democracy
+vertice	bush
+vertice	jewish
+aresta	jewish	jews	1
+vertice	jews
+vertice	bible
+vertice	faith
+vertice	church
+vertice	revolution
+vertice	Israel
+vertice	climate
+vertice	US
+aresta	US	face	1
+aresta	US	sexy	1
+vertice	face
+vertice	sexy
+vertice	fundamentals
+vertice	preservation
+vertice	flex
+vertice	finance
+aresta	finance	bank	1
+aresta	finance	tax	1
+vertice	bank
+vertice	tax
+vertice	crack
+vertice	anthropology
+vertice	advertising
+vertice	analyse
+aresta	analyse	analyser	1
+vertice	analyser
+vertice	museums
+aresta	museums	heritage	1
+vertice	heritage
+vertice	bibliographic
+vertice	cataloging
+vertice	archives
+vertice	nautilus
+vertice	scripts
+vertice	grub
+vertice	rescue
+vertice	automotive
+vertice	safari
+vertice	learn
+vertice	spatial
+vertice	optimize
+vertice	product
+vertice	albums
+vertice	abstracts
+vertice	water
+vertice	birds
+vertice	flowers
+vertice	sky
+vertice	colors
+vertice	colour
+vertice	pics
+vertice	macro
+vertice	nature
+vertice	vegan
+vertice	organiser
+vertice	lien
+vertice	utile
+vertice	creative
+vertice	writers
+vertice	style
+vertice	arabic
+vertice	picture
+vertice	tab
+vertice	catalog
+vertice	upload
+vertice	monitor
+vertice	computers
+vertice	git
+vertice	wine
+vertice	files
+vertice	printer
+vertice	manager
+vertice	drivers
+vertice	administration
+vertice	installation
+vertice	remote
+vertice	Asymptotic
+aresta	Asymptotic	normality	1
+vertice	normality
+vertice	distribution
+aresta	distribution	Asymptotic	1
+aresta	distribution	frequency	1
+vertice	frequency
+aresta	frequency	mandelbrot	1
+vertice	mandelbrot
+vertice	client
+vertice	screen
+vertice	cd
+vertice	commands
+vertice	buzz
+vertice	Canada
+vertice	tajikistan
+vertice	boomerang
+vertice	wood
+vertice	newspapers
+vertice	medline
+vertice	population
+vertice	thesaurus
+vertice	alignment
+vertice	context
+vertice	operational
+vertice	refinement
+vertice	syntax
+vertice	emergent
+vertice	scientific
+vertice	window
+vertice	plan
+vertice	story
+vertice	example
+aresta	example	material	1
+vertice	material
+vertice	pharmaceuticals
+vertice	cs
+vertice	protein
+aresta	protein	Receptors	1
+aresta	protein	Tumor	1
+aresta	protein	Receptor	1
+aresta	protein	Pathologic	1
+aresta	protein	pharmacology	1
+aresta	protein	Mice	1
+aresta	protein	Neoplasm	1
+aresta	protein	Kinase	1
+aresta	protein	pathology	1
+vertice	Receptors
+vertice	Tumor
+vertice	Caffeine
+vertice	Competitive
+vertice	Blotting
+vertice	Potassium
+vertice	Ligands
+vertice	Tyrosine
+vertice	Guinea
+vertice	Cytosol
+vertice	Fluorescent
+vertice	Pathologic
+vertice	pharmacology
+vertice	Mice
+vertice	Neoplasm
+vertice	Kinase
+vertice	Antibodies
+vertice	Mutation
+vertice	RNA
+vertice	Eye
+vertice	Animal
+aresta	Animal	rehabilitation	1
+vertice	pathology
+vertice	Specificity
+vertice	response
+vertice	scattering
+vertice	metabolism
+aresta	metabolism	supply	1
+vertice	supply
+vertice	Markers
+vertice	Antineoplastic
+vertice	Reproducibility
+vertice	Chemistry
+vertice	blood
+aresta	blood	Aged	1
+aresta	blood	Laboratories	1
+vertice	Aged
+vertice	Laboratories
+vertice	Congestive
+vertice	Extramural
+vertice	Pigs
+vertice	Dogs
+vertice	Intracellular
+vertice	drug
+aresta	drug	Calcium	1
+vertice	migration
+vertice	ecology
+vertice	reading
+vertice	dictionaries
+vertice	qualitative
+vertice	relation
+vertice	tm
+vertice	categorization
+vertice	word
+vertice	words
+vertice	secure
+vertice	gene
+vertice	oyster
+vertice	acidification
+vertice	stress
+vertice	log
+vertice	dsl
+vertice	lexicon
+vertice	japanese
+vertice	tricks
+vertice	recommendations
+vertice	help
+vertice	composition
+vertice	review
+aresta	review	overview	1
+vertice	overview
+vertice	sampling
+vertice	case
+vertice	formative
+vertice	basic
+vertice	nearest
+vertice	neighbor
+vertice	eu
+aresta	eu	constitution	1
+vertice	constitution
+vertice	vector
+vertice	creativity
+vertice	graphic
+vertice	gimp
+vertice	charts
+vertice	annotated
+vertice	bibliographies
+vertice	roundups
+vertice	relatedness
+vertice	integration
+vertice	latent
+vertice	profile
+vertice	interfaces
+vertice	experience
+vertice	closed
+vertice	lattice
+vertice	conferences
+vertice	usage
+vertice	leaders
+vertice	thought
+vertice	order
+vertice	uncertainty
+aresta	uncertainty	assimilation	1
+vertice	assimilation
+vertice	trends
+vertice	robust
+vertice	probability
+vertice	bayesian
+vertice	inference
+aresta	inference	transitive	1
+vertice	transitive
+vertice	regression
+aresta	regression	Nonparametric	1
+aresta	regression	logistic	1
+vertice	Nonparametric
+vertice	logistic
+vertice	nonlinear
+vertice	particle
+vertice	attribute
+aresta	attribute	exploration	1
+vertice	exploration
+vertice	cards
+vertice	aesthetics
+vertice	form
+vertice	photographer
+vertice	projects
+vertice	artiste
+vertice	interesting
+vertice	citations
+vertice	menu
+vertice	HIV
+vertice	academics
+vertice	institute
+vertice	humanities
+vertice	wellness
+vertice	offerings
+vertice	goods
+vertice	genetics
+aresta	genetics	genes	1
+vertice	genes
+vertice	psychiatry
+vertice	integrative
+vertice	diseases
+vertice	energy
+aresta	energy	fatigue	1
+aresta	energy	geothermal	1
+vertice	fatigue
+vertice	geothermal
+vertice	timeline
+vertice	interactive
+vertice	visualiser
+vertice	Adaptive
+vertice	participation
+vertice	sciences
+vertice	vision
+vertice	researcher
+vertice	Eclipse
+vertice	cell
+vertice	robot
+vertice	sms
+vertice	phones
+vertice	base
+vertice	embodied
+vertice	perception
+vertice	ubiquitous
+aresta	ubiquitous	pervasive	1
+vertice	pervasive
+vertice	palm
+vertice	induction
+vertice	italian
+vertice	ethnology
+aresta	ethnology	siberia	1
+vertice	siberia
+vertice	share
+vertice	file
+vertice	collection
+vertice	commons
+vertice	font
+vertice	examples
+vertice	work
+vertice	expression
+vertice	lp
+vertice	scheme
+vertice	logo
+vertice	specification
+vertice	debugging
+aresta	debugging	explanation	1
+vertice	explanation
+vertice	compression
+vertice	subversion
+vertice	cocoa
+vertice	concurrency
+vertice	optimization
+vertice	erlang
+vertice	computation
+vertice	compiler
+vertice	diagrams
+vertice	line
+vertice	torrent
+vertice	slides
+vertice	satellite
+aresta	satellite	wildfire	1
+aresta	satellite	fire	1
+vertice	wildfire
+vertice	fire
+aresta	fire	fires	1
+vertice	fires
+vertice	nasa
+vertice	benchmark
+vertice	tourism
+vertice	mountain
+vertice	entertainment
+vertice	band
+vertice	songs
+vertice	lyrics
+vertice	indie
+vertice	classical
+vertice	midi
+vertice	song
+vertice	rock
+vertice	electronic
+vertice	festival
+vertice	spreadsheet
+vertice	webmaster
+vertice	notes
+vertice	comparison
+vertice	virtual
+aresta	virtual	reality	1
+aresta	virtual	worlds	1
+vertice	reality
+vertice	worlds
+vertice	snippets
+vertice	fingerprinting
+vertice	chat
+vertice	conversion
+aresta	conversion	convert	1
+vertice	convert
+vertice	index
+vertice	traffic
+vertice	principles
+vertice	incomplete
+aresta	incomplete	Balanced	1
+vertice	Balanced
+vertice	block
+aresta	block	incomplete	1
+aresta	block	designs	1
+vertice	designs
+vertice	point
+vertice	provenance
+vertice	branching
+vertice	oriented
+vertice	crossover
+vertice	size
+vertice	symbolic
+vertice	tree
+vertice	computational
+vertice	parameter
+vertice	optimisation
+vertice	selection
+vertice	length
+vertice	problem
+aresta	problem	solving	1
+vertice	solving
+vertice	variable
+vertice	simulated
+vertice	automatic
+vertice	program
+vertice	theme
+vertice	Alexander
+vertice	visual
+vertice	document
+vertice	verification
+aresta	verification	concurrent	1
+vertice	concurrent
+vertice	small
+vertice	protocol
+vertice	page
+vertice	crawler
+vertice	link
+vertice	websites
+vertice	format
+vertice	tracking
+aresta	tracking	Dissertation	1
+vertice	Dissertation
+vertice	sites
+vertice	markup
+vertice	js
+vertice	magazines
+vertice	geology
+vertice	mind
+vertice	neurology
+vertice	predictive
+vertice	capture
+vertice	reader
+vertice	quality
+vertice	FLOSS
+vertice	diagram
+vertice	followup
+vertice	forum
+vertice	chart
+vertice	support
+vertice	messaging
+vertice	beta
+vertice	EM
+vertice	stemming
+vertice	numerical
+vertice	Monte
+vertice	disability
+vertice	memory
+vertice	informal
+vertice	reinforcement
+vertice	constructivism
+vertice	semiotics
+vertice	mathematical
+vertice	educational
+vertice	developmental
+vertice	training
+vertice	collective
+vertice	college
+vertice	relational
+vertice	course
+vertice	based
+vertice	monetary
+vertice	UK
+vertice	leadership
+vertice	intro
+vertice	entropy
+vertice	Asymmetric
+vertice	personalized
+vertice	find
+vertice	search_engine
+vertice	rank
+vertice	searching
+vertice	Excitatory
+vertice	Synaptic
+aresta	Synaptic	Synapses	1
+vertice	Synapses
+vertice	Photic
+vertice	Neurological
+vertice	ferromagnetic
+vertice	resonance
+vertice	motion
+aresta	motion	Fractional	1
+vertice	Fractional
+vertice	resource
+vertice	constraint
+aresta	constraint	satisfaction	1
+vertice	satisfaction
+vertice	beta-Lactamases
+vertice	Pseudomonas
+vertice	Staphylococcal
+vertice	Amygdala
+vertice	Phylogeny
+vertice	Outbreaks
+vertice	Antigens
+vertice	introduction
+vertice	illustrator
+vertice	event
+vertice	decision
+vertice	money
+vertice	startup
+vertice	accepted
+aresta	accepted	loser	1
+vertice	loser
+vertice	capital
+vertice	new
+vertice	own
+vertice	rede
+vertice	network
+aresta	network	telecommunication	1
+vertice	telecommunication
+vertice	Amino
+aresta	Amino	Acids	1
+aresta	Amino	Cloning	1
+vertice	Acids
+vertice	Cloning
+vertice	Muscles
+vertice	brine
+vertice	sandwich
+vertice	electrochemistry
+vertice	Imperfect
+vertice	greek
+aresta	greek	antiquity	1
+vertice	antiquity
+vertice	wavelength
+vertice	fibre
+vertice	webcam
+vertice	films
+vertice	TV
+vertice	experiment
+vertice	optics
+vertice	division
+vertice	modulation
+vertice	International
+aresta	International	diversification	1
+vertice	diversification
+vertice	keyboard
+aresta	keyboard	shortcuts	1
+vertice	shortcuts
+vertice	Boltzmann
+vertice	coauthor
+vertice	Analysis
+aresta	Analysis	variance	1
+vertice	variance
+vertice	European_Union
+vertice	intelligent
+aresta	intelligent	tutoring	1
+vertice	tutoring
+vertice	localization
+aresta	localization	indoor	1
+vertice	indoor
+vertice	popularity
+vertice	global
+aresta	global	governance	1
+vertice	governance
+vertice	Adolescent
+aresta	Adolescent	Incidence	1
+aresta	Adolescent	Disorders	1
+vertice	Incidence
+vertice	Disorders
+vertice	stochastic
+aresta	stochastic	equations	1
+vertice	equations
+vertice	verdi
+vertice	rate
+aresta	rate	interest	1
+vertice	interest
+vertice	date
+vertice	Company
+aresta	Company	Consultation	1
+vertice	Consultation
+vertice	transition
+aresta	transition	glass	1
+vertice	glass
+vertice	awareness
+aresta	awareness	se	1
+vertice	se
+vertice	Inbred
+aresta	Inbred	Cholinergic	1
+vertice	Cholinergic
+vertice	meditation
+aresta	meditation	taoism	1
+vertice	taoism
+vertice	control
+aresta	control	version	1
+vertice	version
+vertice	income
+aresta	income	taxation	1
+vertice	taxation
+vertice	cellular
+aresta	cellular	automata	1
+vertice	automata
+vertice	in
+aresta	in	England	1
+vertice	England
+vertice	large
+aresta	large	numbers	1
+vertice	numbers
+vertice	critical
+aresta	critical	phenomena	1
+vertice	phenomena
+vertice	queries
+aresta	queries	clicks	1
+vertice	clicks
+vertice	markets
+aresta	markets	Emerging	1
+vertice	Emerging
+vertice	lcd
+aresta	lcd	keller	1
+vertice	keller

@@ -1,0 +1,33 @@
+###################################################
+# Config para o Experimentos 10
+###################################################
+drive = g:
+# Diretorio de Leitura
+inputDir  = /experiments/hiponimos/Experimentos 11/
+# Diretorio de Escrita
+outputDir = /experiments/hiponimos/Experimentos 11/
+# Relacao de Atributos utilizados
+attList = confianca	a	b	path
+# Rotulo para instancias positivas
+positiveLabel = HYPER
+# Rotulo para instancias negativas
+negativeLabel = NO
+#
+#Arquivo de origem, para derivação de outros arquivos. Neste arquivo,
+#só estão presentes as instancias positivas rotuladas pelo WordNet e conceptnet
+#------------------------------------------------
+fullFile = [10-0]-FULL_FILE-addedMutual-addShortestPath-setNewPositive-webevaluation-cuttedAtt
+fullPositiveFile = [10-0-1] SelectedPositiveInstances-HYPER
+fullNegativeFile = [10-0-2] SelectedNegativeInstances-NO
+#
+# Arquivo final, preparado para este experimento
+#------------------------------------------------
+baseFile = [10-2] BASE_FILE - Filtered by Suport geq 5 and cosseno geq 04-(cuttedAtt cos and support)
+filePositive = [10-2-1]-SelectedPositiveInstances-HYPER
+fileNegative = [10-2-2] SelectedNegativeInstances-NO
+mappingTagFile = WordnetAndRelated
+#
+# Arquivos de Treino e Teste, utilizados em testes rápidos
+#------------------------------------------------
+trainingFile = 
+testFile = 
